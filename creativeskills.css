@@ -1,0 +1,245 @@
+    .jumbotron{
+      background-color: #5a5a5a;
+    }
+
+    .Heading{
+      text-align: center;
+      color: white;
+      letter-spacing: 5px;
+    }
+
+    .navbar-right{
+          color    : white;
+      font-size    : 8px;  
+    }
+
+    .User{
+      font-size:20px;
+      color: white;
+      padding-right: 10px;
+    }
+
+    span{
+        color: white;
+        padding-right: 7px;
+      }
+
+    .nav-link{
+      color: #000000;
+      text-align: center;
+      padding-top: 10px;
+    }
+
+    .Collections{
+
+          padding-top: 20px; 
+          text-align: center;
+      letter-spacing: 2px;
+          height: 100px;   
+    }
+
+    .Kitchen{
+      width: 100%; 
+      height: 450px;
+    }
+
+    .Handicrafts{
+      background-color:   #DCDCDC;
+      height: 850px;   
+    }
+
+    .description{
+      text-align: center;
+      letter-spacing: 2px;
+      
+      padding-top:100px;
+
+    }
+
+    .header2{
+	 line-height: 1%;	
+     }
+   
+    .description1{
+    
+      padding-top:60px;
+      line-height: 70%;
+      font-family: "Times New Roman";
+
+    }
+    
+ 
+    .notes1,.notes2,.notes3{
+        padding:0 100px 0 100px;
+	text-align : center;
+     }   
+
+    .Service,.Showrooms{
+
+    background-color:#FFFFFF;
+          padding-top: 20px; 
+          text-align: center;
+      letter-spacing: 2px;
+          height: 100px; 
+    }
+
+    .cont2{
+      height: 1200px;  
+      width: 100%;
+      height: 100%;
+    }
+
+
+    .text1{ 
+
+		background-color:#5a5a5a;
+		height:400px;
+		color:white;
+		text-align:center;
+		padding-top:120px;	
+    padding-left:-30px;
+    padding-right:0px; 
+
+        }
+ 
+    .para2,.para4,.para6{	
+		padding-top:30px;
+		line-height: 70%	
+	}
+	
+    .design1,.design2,.design3{
+       object-fit: cover;
+  width: 100%;
+  height: 400px
+	}
+
+    .img1,.img2,.img3{
+	
+	height:400px;
+	padding:0;	
+
+	} 
+
+    .text2{
+
+		height:400px;
+		text-align:center;
+		padding-top:120px;	
+
+	} 
+
+	
+    .text3{
+
+		height:400px;
+		text-align:center;
+		padding-top:120px;
+		background-color:#DCDCDC;	
+
+	} 
+
+    .footer-container{
+      background-color:#5a5a5a;
+      width: 100%;
+      height: 220px;
+      color: white;
+      padding-top  : 50px;
+      padding-left : 100px;
+      padding-right: 150px;
+
+    }
+
+     .subletter{
+      font-size: 10px;
+      letter-spacing: 1px;
+      padding-top: 1px;
+
+    }
+
+    .email{ 
+      font-size: 10px;
+      letter-spacing: 1px;
+      color: black;
+      width: 200px;
+      height: 30px;
+      padding-top: 2px;
+    }
+
+
+    .contact{
+
+      padding-left: 2px;
+    }
+
+    .button{
+
+      position: absolute;
+      top: 70%;
+      margin-left: 60px;
+      width: 50%;
+      background-color: #1589FF;
+      color: white;
+    }
+
+    .cabinets,.accessories,.handlers,.worktops{
+      position: absolute;
+      top: 40%;
+      margin-left: 60px;
+      width: 50%;
+      color: white;
+      letter-spacing: 2px;
+      font-family: gothic centuri;
+
+    }
+
+
+    .welcome{
+      letter-spacing: 3px;
+      margin-top: 40px;
+    }
+
+    .signature{
+      font-family: 'Herr Von Muellerhoff', cursive;
+      text-align: center;
+      margin-top: 70px;
+    }
+
+    .Establishment{
+      text-align: center;
+
+    }
+
+    .social-media{
+
+      text-align: center;
+      margin-top: 50px;
+      padding-top: 80px;
+      word-spacing: 10px;
+      font-size: 20px
+    }
+
+    .button:hover{
+      color:#1589FF;
+
+    }
+
+    .parent_class {
+      position: relative;
+    }
+    .child {
+         position: absolute;
+    top: 0;
+    width: 340px;
+    opacity: 0.5;
+    margin: 72px 0px 0px 125px;
+    }
+    .child {
+      opacity: 1.0 !important;   
+      margin: 72px 0px 0px 125px !important;
+    }
+    .child .bx-wrapper {
+       background-color: rgba(0,0,0,0.7);
+       color: white;
+       text-align-last: center;
+       height: 250px;
+    }
